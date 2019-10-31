@@ -10,7 +10,8 @@ Some basic filters include :
 - black and white
 - sketch 
 - cartoonizer
-#### Example :
+### Example :
+
 - Original Input Image
 
 ![aaassd](https://user-images.githubusercontent.com/25251763/50043608-80116580-009d-11e9-9204-4c00d7fb55f1.png)
@@ -28,7 +29,7 @@ Some basic filters include :
 ![blacnwhite_version](https://user-images.githubusercontent.com/25251763/50043633-09289c80-009e-11e9-93fe-924d2b8c967e.jpg)
 
 
-## Technologies :
+### Technologies :
 - `Python 3.6`
 - `OpenCV (cv2)`
 
